@@ -9,4 +9,4 @@ CQU-BPDD consists of 60059 1200x900 resolution bituminous pavement images which 
 
 ![Image](https://github.com/DearCaat/CQU-BPDD/blob/gh-pages/images/dataset.png?raw=true)
 
-[download the dataset](https://pan.baidu.com/s/1ShSn0-bpBhCvNF1vF_LH5g), _send email to huangsheng@cqu.edu.cn for achieving the download password!_
+[download the dataset](https://pan.baidu.com/s/1ShSn0-bpBhCvNF1vF_LH5g), _send email to tangwenhao@cqu.edu.cn (or huangsheng@cqu.edu.cn) for achieving the download password!_

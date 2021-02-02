@@ -15,8 +15,8 @@ We randomly select 5,140 diseased pavement images involving all diseases and 5,0
 
 ||Transverse Crack|Massive Crack|Alligator Crack|Crack Pouring|Longitudinal Crack|Ravelling|Repair|Normal|All|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|Train set|519|1200|425|1000|1000|478|518|5000|10140|
-|Test set|520|5007|426|3199|1382|479|576|38330|49919|
+|Train Set|519|1200|425|1000|1000|478|518|5000|10140|
+|Test Set|520|5007|426|3199|1382|479|576|38330|49919|
 
 ### Download CQU-BPDD
 [Downloading the dataset](https://pan.baidu.com/s/1ilLufYJ8zGWc048KfDro_Q), _send email to huangsheng@cqu.edu.cn for achieving the download password! (Please note: CQU-BPDD can be only used in the uncommercial case.)_

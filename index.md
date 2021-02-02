@@ -1,12 +1,13 @@
 ## The Chongqing University Bituminous Pavement Disease Detection Dataset (CQU-BPDD)
 
-<font size=2>**The CQU-BPDD**</font> consists of 60,059 bituminous pavement images, which were automatically captured by the in-vehicle cameras of the professional pavement inspection vehicle at different times from different areas in southern China . Each pavement image is corresponding to a 2 × 3 meters pavement patch of highways and its resolution is 1200×900. The CQU-BPDD involves seven different distresses, namely **transverse crack, massive crack, alligator crack, crack pouring, longitudinal crack, ravelling, repair, and the normal ones.** 
+**The CQU-BPDD** consists of 60,059 bituminous pavement images, which were automatically captured by the in-vehicle cameras of the professional pavement inspection vehicle at different times from different areas in southern China . Each pavement image is corresponding to a 2 × 3 meters pavement patch of highways and its resolution is 1200×900. The CQU-BPDD involves seven different distresses, namely **transverse crack, massive crack, alligator crack, crack pouring, longitudinal crack, ravelling, repair, and the normal ones.** 
 
 #### The Preview of CQU-BPDD
 CQU-BPDD has the following characteristics:
 * Illumination  is  uneven,  which  is  manifested  as  weaklight  in  some  areas  (called  dark  parts)  and  sufficientlight in some areas (called bright parts).
 * The proportion of diseased areas is relatively small, andsome diseased areas are in the dark, which is difficultto identify.
 * There are a variety of background interferences in realenvironments, such as zebra crossings, foreign bodies,ruts, etc.
+</br>
 ![Image](https://github.com/DearCaat/CQU-BPDD/blob/gh-pages/images/dataset.png?raw=true)
 
 #### The data distribution of CQU-BPDD

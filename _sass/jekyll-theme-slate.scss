@@ -239,13 +239,15 @@ th {
   padding: 10px;
   background: #373737;
   color: #fff;
-  width:7em;
+  max-width: 4rem;
+  min-width: 4rem;
  }
 
 td {
   padding: 10px;
   border: 1px solid #373737;
-  width:7em;
+  max-width: 4rem;
+  min-width: 4rem;
  }
 
 form {

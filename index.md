@@ -7,7 +7,7 @@ CQU-BPDD has the following characteristics:
 * Illumination  is  uneven,  which  is  manifested  as  weaklight  in  some  areas  (called  dark  parts)  and  sufficientlight in some areas (called bright parts).
 * The proportion of diseased areas is relatively small, andsome diseased areas are in the dark, which is difficultto identify.
 * There are a variety of background interferences in realenvironments, such as zebra crossings, foreign bodies,ruts, etc.
-![Image](https://github.com/DearCaat/CQU-BPDD/blob/gh-pages/images/dataset.pngraw=true)
+![Image](https://github.com/DearCaat/CQU-BPDD/blob/gh-pages/images/dataset.png?raw=true)
 
 #### The data distribution of CQU-BPDD
 We randomly select 5,140 diseased pavement images involving all diseases and 5,000 normal pavement images to produce the training set, while the rest of dataset is used as the testing set. In the testing set, there are 11,589 diseased pavement images and 38,330 normal images.
